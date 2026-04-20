@@ -84,5 +84,8 @@
         });
     
     </script>
+
+    <!-- Online/Offline Status Indicator -->
+    @include('status/online-offline-status-indicator')
 </body>
 </html>

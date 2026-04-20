@@ -9,7 +9,7 @@
     <!-- Header Section -->
     <div style="background-color: #0f172a; color: #ffffff; padding: 20px 10px; text-align: center;">
         <h1 style="margin: 0; font-size: 32px; text-transform: uppercase; letter-spacing: 2px;">Usman Adams</h1>
-        <p style="margin: 10px 0 0; font-size: 16px; color: #94a3b8; text-transform: uppercase; letter-spacing: 3px;">Full Stack Developer</p>
+        <p style="margin: 10px 0 0; font-size: 16px; color: #94a3b8; text-transform: uppercase; letter-spacing: 3px;">Full Stack & App Developer</p>
     </div>
 
     <!-- Contact Info Bar -->
@@ -29,8 +29,8 @@
         <div style="margin-bottom: 30px;">
             <h2 style="color: #0f172a; font-size: 18px; text-transform: uppercase; border-bottom: 2px solid #0f172a; padding-bottom: 5px; margin-bottom: 15px;">Professional Summary</h2>
             <p style="margin: 0; font-size: 14px; text-align: justify; color: #334155;">
-                Dedicated and skilled Full Stack Developer specializing in building modern web applications with clean, maintainable code. 
-                Proficient in the Laravel ecosystem, including Livewire, and modern front-end tools to create seamless, interactive user interfaces. 
+                Dedicated and skilled Full Stack and App Developer specializing in building modern web and cross-platform mobile applications with clean, maintainable code. 
+                Proficient in the Laravel ecosystem and React Native to create seamless, interactive user interfaces across multiple platforms. 
                 Passionate about implementing real-time features and delivering scalable, efficient software solutions.
             </p>
         </div>
@@ -45,7 +45,7 @@
                 </tr>
                 <tr>
                     <td style="width: 30%; font-weight: bold; color: #0f172a; padding: 5px 0; vertical-align: top;">Frontend Development</td>
-                    <td style="padding: 5px 0; color: #334155;">Livewire, Alpine.js, Tailwind CSS, JavaScript, HTML5, CSS3</td>
+                    <td style="padding: 5px 0; color: #334155;">React Native, Livewire, Alpine.js, Tailwind CSS, JavaScript, HTML5, CSS3</td>
                 </tr>
                 <tr>
                     <td style="width: 30%; font-weight: bold; color: #0f172a; padding: 5px 0; vertical-align: top;">Tools & Technologies</td>
@@ -68,7 +68,7 @@
                 </table>
                 {{-- <div style="font-size: 14px; font-style: italic; color: #475569; margin-bottom: 8px;">Company Name, Location</div> --}}
                 <ul style="margin: 0; padding-left: 20px; font-size: 14px; color: #334155;">
-                    <li style="margin-bottom: 5px;">Architected and developed scalable web applications using Laravel and Livewire.</li>
+                    <li style="margin-bottom: 5px;">Architected and developed scalable web and mobile applications using Laravel, Livewire, and React Native.</li>
                     <li style="margin-bottom: 5px;">Implemented real-time features and interactive UIs using Alpine.js.</li>
                     <li style="margin-bottom: 5px;">Optimized database queries and application performance for high-traffic systems.</li>
                 </ul>

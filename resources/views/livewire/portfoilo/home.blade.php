@@ -152,8 +152,8 @@
         }, 1000);
 
         // 2. Advanced Typing Sequence
-        const mainText = "Building scalable web-based systems.";
-        const subTextHTML = "Full Stack Developer <span class='text-slate-600'>//</span> PHP & Laravel <br> Specialized in <span class='text-neon-blue'>clean back-end logic</span> and <span class='text-neon-green'>seamless user experiences.</span>.";
+        const mainText = "Building scalable web and mobile systems.";
+        const subTextHTML = "Full Stack & App Developer <span class='text-slate-600'>//</span> Laravel & React Native <br> Specialized in <span class='text-neon-blue'>clean back-end logic</span> and <span class='text-neon-green'>seamless user experiences.</span>";
         
         // Flag to prevent duplicate animations from running simultaneously
         let isAnimationRunning = false;

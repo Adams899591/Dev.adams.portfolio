@@ -157,7 +157,19 @@
                             Laravel
                         </span>
                         <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded text-neon-purple hover:bg-neon-purple/10 hover:border-neon-purple transition-all cursor-default">
+                            Livewire
+                        </span>
+                        <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded text-neon-purple hover:bg-neon-purple/10 hover:border-neon-purple transition-all cursor-default">
+                            Alpine.js
+                        </span>
+                        <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded text-neon-purple hover:bg-neon-purple/10 hover:border-neon-purple transition-all cursor-default">
+                            React Native
+                        </span>
+                        <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded text-neon-purple hover:bg-neon-purple/10 hover:border-neon-purple transition-all cursor-default">
                             JS Libraries
+                        </span>
+                        <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded text-neon-purple hover:bg-neon-purple/10 hover:border-neon-purple transition-all cursor-default">
+                            SVG
                         </span>
                         <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded text-neon-purple hover:bg-neon-purple/10 hover:border-neon-purple transition-all cursor-default">
                             jQuery

@@ -105,8 +105,8 @@
                                 Hello! I'm <strong class="text-slate-200">Usman Adams</strong>, a passionate developer dedicated to building exceptional digital experiences.
                             </p>
                             <p>
-                                I am currently a student at the <strong class="text-slate-200">Federal University Dustin-ma</strong>. As a Full Stack Developer, I don't just build websites; I engineer robust <strong class="text-neon-purple">web applications</strong> tailored to solve real-world problems.
-                            </p>Menu
+                                I am currently a student at the <strong class="text-slate-200">Federal University Dustin-ma</strong>. As a Full Stack and App Developer, I don't just build websites; I engineer robust <strong class="text-neon-purple">web and mobile applications</strong> tailored to solve real-world problems.
+                            </p>
                             
                             <p>
                                 I strive for professionalism, efficiency, and creativity in every line of code I write.

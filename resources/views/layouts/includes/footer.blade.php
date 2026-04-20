@@ -29,8 +29,8 @@
     
 <!-- --------------CSS ensure that AOS move slow-------------------- -->
 <style>
-  /* ---------help to slow AOS better------------- */
-    [data-aos][data-aos][data-aos-duration= "5000"]{
+  /* ---------help to slow AOS better------------- */ 
+     [data-aos][data-aos][data-aos-duration= "5000"]{
         transition-duration: 5000ms;
     }
 </style>
