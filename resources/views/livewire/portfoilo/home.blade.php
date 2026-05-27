@@ -117,7 +117,9 @@
                             
                             <!-- ADDED IMAGE HERE -->
                             <div class="absolute z-10 w-40 h-40 rounded-full overflow-hidden border-2 border-neon-blue/50 shadow-[0_0_15px_rgba(0,243,255,0.3)]">
-                                <img src="{{asset("storage/image/adams.jpg")}}" alt="Profile" class="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-300">
+                                {{-- <img src="{{asset("storage/image/adams.jpg")}}" alt="Profile" class="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-300"> --}}
+                                <img src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/adams.jpg" alt="Profile" class="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-300">
+
                             </div>
                         </div>
                     </div>
