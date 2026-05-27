@@ -75,7 +75,8 @@
                             {{-- Overlay scanline for image --}}
                             <div class="absolute inset-0 bg-gradient-to-b from-transparent via-neon-blue/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 z-10 pointer-events-none"></div>
                             
-                            <img src="{{ asset('storage/image/adams.jpg') }}" alt="Usman Adams" class="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0">
+                            {{-- <img src="{{ asset('storage/image/adams.jpg') }}" alt="Usman Adams" class="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0"> --}}
+                            <img src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/adams.jpg" alt="Usman Adams" class="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0">
                         </div>
                         
                         <!-- Tech decorations -->

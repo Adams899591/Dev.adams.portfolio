@@ -23,7 +23,7 @@
                             <a href="#" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-slate-400 hover:text-white transition-colors">
                                 View Code <span class="ml-2 text-slate-600">&rarr;</span>
                             </a>
-                            <a href="#" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-neon-blue hover:text-white transition-colors">
+                            <a href="https://webx.byethost7.com/Dine.with.Esty/esty.php" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-neon-blue hover:text-white transition-colors">
                                 View Project <span class="ml-2">&rarr;</span>
                             </a>
                         </div>

@@ -18,10 +18,10 @@
                             <span class="px-2 py-1 text-xs bg-slate-800 text-neon-purple rounded border border-slate-700">Laravel</span>
                         </div>
                         <div class="flex items-center gap-6">
-                            <a href="#" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-slate-400 hover:text-white transition-colors">
+                            <a href="https://github.com/Adams899591/Dev.adams.portfolio" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-slate-400 hover:text-white transition-colors">
                                 View Code <span class="ml-2 text-slate-600">&rarr;</span>
                             </a>
-                            <a href="#" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-neon-blue hover:text-white transition-colors">
+                            <a href="https://dev-adams-portfolio.vercel.app/portfolio/home" class="inline-flex items-center text-sm text-sm max-sm:text-[10px] text-neon-blue hover:text-white transition-colors">
                                 View Project <span class="ml-2">&rarr;</span>
                             </a>
                         </div>
