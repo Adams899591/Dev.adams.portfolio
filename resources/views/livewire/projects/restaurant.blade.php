@@ -4,7 +4,7 @@
                         {{-- <div class="absolute inset-0 bg-slate-900/40 group-hover:bg-transparent transition-colors z-10"></div> --}}
                         <!-- Replace src with your actual project image -->
                         {{-- <video autoplay loop src="{{asset("storage/projects/Esty home page.mp4")}}"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video> --}}
-                        <video autoplay loop src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/estate%20website.mp4"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video>
+                        <video autoplay loop src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/Esty%20home%20page.mp4"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video>
 
                     </div>
                     <div class="p-6">
