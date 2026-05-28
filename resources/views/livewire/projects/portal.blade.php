@@ -2,7 +2,9 @@
                     <div class="relative h-48 overflow-hidden border-b border-slate-800">
                         {{-- <div class="absolute inset-0 bg-slate-900/40 group-hover:bg-transparent transition-colors z-10"></div> --}}
                         {{-- <img src="https://placehold.co/600x400/1e293b/00ff9d?text=Project+Beta" alt="Project 2" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"> --}}
-                        <video autoplay loop muted src="{{asset("storage/projects/Fudma Portal.mp4")}}"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video>
+                        {{-- <video autoplay loop muted src="{{asset("storage/projects/Fudma Portal.mp4")}}"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video> --}}
+                        <video autoplay loop muted src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/Fudma%20Portal.mp4"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video>
+
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-bold text-slate-100 mb-2 group-hover:text-neon-green transition-colors max-sm:text-[15px]">Student Portal (School Project)</h3>

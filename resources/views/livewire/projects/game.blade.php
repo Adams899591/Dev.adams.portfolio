@@ -3,7 +3,8 @@
                     <div class="relative h-48 overflow-hidden border-b border-slate-800">
                         {{-- <div class="absolute inset-0 bg-slate-900/40 group-hover:bg-transparent transition-colors z-10"></div> --}}
                         <!-- Replace src with your actual project image -->
-                        <img src="{{asset("storage/projects/game.jpg")}}" alt="Project 1" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
+                        {{-- <img src="{{asset("storage/projects/game.jpg")}}" alt="Project 1" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"> --}}
+                        <img src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/game.jpg" alt="Project 1" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-bold text-slate-100 mb-2 group-hover:text-neon-blue transition-colors max-sm:text-[15px]">Rock,Paper,Scessors Game</h3>

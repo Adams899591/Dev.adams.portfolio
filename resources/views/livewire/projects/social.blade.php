@@ -3,7 +3,8 @@
                     <div class="relative h-48 overflow-hidden border-b border-slate-800">
                         {{-- <div class="absolute inset-0 bg-slate-900/40 group-hover:bg-transparent transition-colors z-10"></div> --}}
                         <!-- Replace src with your actual project image -->
-                        <video autoplay loop src="{{asset("storage/projects/Social Chat friends.mp4")}}"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video>
+                        {{-- <video autoplay loop src="{{asset("storage/projects/Social Chat friends.mp4")}}"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video> --}}
+                        <video autoplay loop src="https://qpopsjtjprtaouaasozv.supabase.co/storage/v1/object/public/Dev-Adams-Portfolio/project_files/Social%20Chat%20friends.mp4"  class="w-full h-full sm:object-cover transform group-hover:scale-110 transition-transform duration-500"></video>
 
                     </div>
                     <div class="p-6">
